@@ -7,7 +7,7 @@
 Для запуска необходимо ввести команду npm start
 
 ### Скриншот приложения
-[![Скриншот приложения](https://github.com/marksadykov/Contacts/screen.png)](https://github.com/marksadykov/Contacts/screen.png)
+[![Скриншот приложения](https://github.com/marksadykov/Contacts/blob/master/screen.png)](https://github.com/marksadykov/Contacts/blob/master/screen.png)
 
 ### Описание
 - В приложении есть две страницы: страница входа и страница со списком контактов.
